@@ -42,5 +42,6 @@ public class Main {
         System.out.println((int)kakao2.getArea());
         System.out.println((int)fourByFour.getArea());
         System.out.println((int)veryBig.getArea());
+        System.out.println((int)veryBig.getArea());
     }
 }
